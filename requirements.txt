@@ -1,0 +1,2 @@
+qrcode
+py-algorand-sdk
